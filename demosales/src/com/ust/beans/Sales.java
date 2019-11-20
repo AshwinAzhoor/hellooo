@@ -13,7 +13,7 @@ public class Sales {
 	private Date screatedDate;
 	private int orderId;
 	private int quantity;
-	private int totalCost;
+	private int totalost;
 	public int getpId() {
 		return pId;
 	}
